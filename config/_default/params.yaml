@@ -5,28 +5,28 @@
 
 # Appearance
 
-theme: "Ocean"
-day_night: false
-font: 'Minimal'
+theme: "minimal"
+day_night: true
+font: ''
 font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: "EducationalOrganization"
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'Claremont Graduate University'
+description: 'Introductory course on programming in the social sciences'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
 email: ttreny@gmail.com
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/tylerreny'
 contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+  - icon: "github"
+    icon_pack: "fab"
+    name: "View my contributions"
+    link: 'https://github.com/tylerreny'
 
 # Site header
 
