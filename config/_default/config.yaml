@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Computational Tools for Social Science XXX# Website name
-baseurl: 'https://spe489.netlify.app/' # Website URL
+baseURL: 'https://spe489.netlify.app/' # Website URL
 copyright: 'This work is licensed under the  <a href='http://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0 Creative Commons License</a>.' # Footer text, e.g. '© {year} Me'
 
 ############################
