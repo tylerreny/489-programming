@@ -60,4 +60,5 @@ user_groups:
 - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tyler Reny is an Assistant Professor of Political Science at Claremont Graduate University. His research investigates the political causes and consequences of inter-group conflict. He received his PhD in 2020 from University of California, Los Angeles and completed a post-doctoral research fellowship at Washington University in St. Louis.
+
