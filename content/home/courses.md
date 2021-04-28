@@ -4,6 +4,7 @@ headless: true
 weight: 30
 title: Explore top courses
 subtitle:
+active: false
 content:
   page_type: book
   filter_default: 0
