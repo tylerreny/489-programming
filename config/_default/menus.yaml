@@ -6,18 +6,14 @@
 main:
   - name: Home
     url: '/'
-    weight: 10
-  - name: Courses
-    url: '/course'
-    weight: 20
-    identifier: courses
-  - name: Data science
-    url: '/course/example/'
+    weight: 1
+  - name: Syllabus
+    url: '/syllabus'
+    weight: 2
+  - name: Homework
+    url: '/homework/'
     weight: 10
     parent: courses
-  - name: Blog
-    url: '/post'
+  - name: Resources
+    url: '/resources'
     weight: 30
-  - name: Contact
-    url: '/contact'
-    weight: 60
