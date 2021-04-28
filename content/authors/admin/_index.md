@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tyler Reny
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Instructor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Claremont Graduate University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an assistant professor of political science at CGU. My research investigates the causes and consequences of inter-group conflict in the political realm.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Behavior
+- Public Opinion
+- Political Psychology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science
+    institution: University of California, Los Angeles
+    year: 2020
+  - course: MA in Political Science
+    institution: University of Washington
+    year: 2015
+  - course: BA in Political Science
+    institution: Skidmore College
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:ttreny@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tylerreny
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tylerreny
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
