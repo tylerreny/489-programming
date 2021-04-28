@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: custom
+theme: 'minimal'
 day_night: false
 font: ''
 font_size: L
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: ttreny@gmail.com
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments
