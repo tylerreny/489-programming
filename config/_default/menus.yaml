@@ -13,7 +13,6 @@ main:
   - name: "Homework"
     url: '/homework/'
     weight: 3
-    parent: courses
   - name: "Resources"
     url: '/resources'
     weight: 4
